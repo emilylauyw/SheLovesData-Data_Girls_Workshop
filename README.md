@@ -1,4 +1,4 @@
-# SheLovesData-Titanic_Survivor_and_Fatality
+# SheLovesData - Titanic Survivor and Fatality
 
 SheLovesData - Data Girls Workshop: Exploration and analysing data from the Titanic Survivor and Fatality Data Set
 
