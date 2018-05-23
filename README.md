@@ -13,7 +13,7 @@ Below is a list report with columns of Passenger Sex, Passenger Age Group, Ticke
 [image]
 
 ### 2. Passenger Survival and Age by Sex and Ticket Class
-visualization that compares the count of each survival value by passenger sex and ticket class.
+Visualization that compares the count of each survival value by passenger sex and ticket class.
 
 ![Passenger Survival and Age by Sex and Ticket Class](Screenshots/Visualization%201.png "Passenger Survival and Age by Sex and Ticket Class")
 
@@ -23,7 +23,7 @@ Observations:
 - Higher survival rate of female in 1st Class than male.
 
 ### 3. Passenger survival by Age, Sex and Ticket class
-visualization that compares for passenger class, passenger sex and the average passenger age and number of survivors / fatalities.
+Visualization that compares for passenger class, passenger sex and the average passenger age and number of survivors / fatalities.
 
 ![Passenger survival by Age, Sex and Ticket class](Screenshots/Visualization%202.png "Passenger survival by Age, Sex and Ticket class")
 
@@ -33,7 +33,7 @@ Observations:
 - High death rate for males from all Class but highest death rate for males from 3rd Class.
 
 ### 4.  Survival Rate Histogram
-visualization that compares the count of survival code to average survival rate by ticket class, sex and passenger age group.
+Visualization that compares the count of survival code to average survival rate by ticket class, sex and passenger age group.
 
 ![Survival Rate Histogram](Screenshots/Visualization%203.png "Survival Rate Histogram")
 
@@ -41,7 +41,7 @@ Observations:
 - Once again show that females in 1st & 2nd class have higher survival rate. On the other hand, males have low survival rate for all class and exceptionally low for 3rd class as there higher in number of males in the 3rd class.
 
 ### Files
-1. 
+1. ```Screenshots/PassengerList.png``` image of Passenger List
 2. ```Screenshots/Visualization 1.png``` visualization image of Passenger Survival and Age by Sex and Ticket Class.
 3. ```Screenshots/Visualization 2.png``` visualization image of Passenger survival by Age, Sex and Ticket class
 4. ```Screenshots/Visualization 3.png``` visualization image of Survival Rate Histogram
