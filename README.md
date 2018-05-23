@@ -18,6 +18,10 @@ visualization that compares the count of each survival value by passenger sex an
 ![alt text](Screenshots/Visualization 1.png "Passenger Survival and Age by Sex and Ticket Class")
 [Passenger Survival and Age by Sex and Ticket Class](Screenshots/Visualization 1.png)
 
+![alt text](Screenshots/Visualization%201.png "Description goes here")
+
+https://github.com/emilylauyw/SheLovesData-Titanic_Survivor_and_Fatality/blob/master/Screenshots/Visualization%201.png
+
 Observations:
 - Higher death rate of male in 3rd ticket class compared to females in 3rd class.
 - More males than female in overall which is why the death rate for males are significant lower in all 3 class.
