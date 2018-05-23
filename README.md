@@ -10,7 +10,7 @@ The following visualizations are created using Yellowfin BI.
 ### 1. Passenger List with Filters
 Below is a list report with columns of Passenger Sex, Passenger Age Group, Ticket Number, Passenger Name and filters for Port of Embarkation and Passenger Age Group.
 
-![Passenger List with Filters](Screenshots/PassengerList.png "Passenger List with Filters")
+![Passenger List with Filters](Screenshots/PassengerList.jpg "Passenger List with Filters")
 
 ### 2. Passenger Survival and Age by Sex and Ticket Class
 Visualization that compares the count of each survival value by passenger sex and ticket class.
@@ -46,7 +46,7 @@ Observations:
 - Female passenger in the higher class had a better chance on surviving.
 
 ### Files
-1. ```Screenshots/PassengerList.png``` image of Passenger List
+1. ```Screenshots/PassengerList.jpg``` image of Passenger List
 2. ```Screenshots/Visualization 1.png``` visualization image of Passenger Survival and Age by Sex and Ticket Class.
 3. ```Screenshots/Visualization 2.png``` visualization image of Passenger survival by Age, Sex and Ticket class
 4. ```Screenshots/Visualization 3.png``` visualization image of Survival Rate Histogram
