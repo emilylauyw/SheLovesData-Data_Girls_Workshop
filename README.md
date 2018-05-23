@@ -16,6 +16,7 @@ Below is a list report with columns of Passenger Sex, Passenger Age Group, Ticke
 visualization that compares the count of each survival value by passenger sex and ticket class.
 
 ![alt text](Screenshots/Visualization 1.png "Passenger Survival and Age by Sex and Ticket Class")
+[Passenger Survival and Age by Sex and Ticket Class](Screenshots/Visualization 1.png)
 
 Observations:
 - Higher death rate of male in 3rd ticket class compared to females in 3rd class.
